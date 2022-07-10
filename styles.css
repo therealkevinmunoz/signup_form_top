@@ -8,17 +8,17 @@
 }
 
 .background-img-container{
-    background: url("Sign-up Form (TOP) Background (1).png");
+    background: url("Sign-up Form (TOP) Background.png");
     background-repeat: no-repeat;
     height: 100vh;
     position: absolute;
-    width: 50vw;
+    width: 45vw;
 }
 
 .form-container {
-    width: 50vw;
+    width: 55vw;
     position: relative;
-    left: 50%;
+    left: 45%;
 }
 
 .form-row {
